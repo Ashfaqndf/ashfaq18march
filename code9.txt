@@ -1,10 +1,9 @@
-Hello h i
-<<<<<<< HEAD
+Hello" HEAD
 
 Hello H r U
 =======
 Hello this Ashfaq
->>>>>>> 497cb803aaa7513a69c7ecfb3bfcaaa68c2eaea3
+497cb803aaa7513a69c7ecfb3bfcaaa68c2eaea3
 
 
-HI Ashfaq
+HI Ashfaiq
