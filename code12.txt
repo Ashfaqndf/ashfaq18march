@@ -1,0 +1,2 @@
+https is secure
+http is not secure
